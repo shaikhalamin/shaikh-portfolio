@@ -22,7 +22,7 @@ class HomeAbout extends Component {
               <p className="text-justify ml-3 font-15">
                 I am Shaikh Al Amin. Working as a Senior Software Engineer at
                 Wipro Limited where i am providing ERP solution to E2E
-                customer.I have work experience with B2C Ecommerce for travel
+                customer.I have work experience with B2C Ecommerce of travel
                 booking system as well. I love stick to new programming
                 challenge. I am very much curious about new tech and like to
                 implement those new tech in real world problems.
