@@ -1,0 +1,59 @@
+.App {
+    font-family: "Poppins", "Arial", "Helvetica", sans-serif;
+  }
+  
+  .nav-bg-gradient {
+    background: rgb(220, 220, 226);
+    background: linear-gradient(
+      90deg,
+      rgba(220, 220, 226, 1) 0%,
+      rgba(17, 191, 233, 1) 0%,
+      rgba(136, 221, 241, 1) 50%,
+      rgba(255, 255, 255, 1) 100%,
+      rgba(255, 255, 255, 1) 100%
+    );
+  }
+  
+  .font-15 {
+    font-size: 15px;
+  }
+  
+  .font-14 {
+    font-size: 15px;
+  }
+  
+  .custom-hover:hover {
+    border-bottom: 2px solid #17a2b8;
+  }
+  
+  .i-am {
+    border-top: 3px solid #17a2b8;
+  }
+  
+  .border-bottom-3 {
+    border-bottom: 3px solid #17a2b8;
+  }
+  
+  .toggler-bg {
+    background-color: #96c0ea;
+  }
+  
+  .navbar-light .navbar-nav .nav-link {
+    font-weight: 400;
+  }
+  
+  .slide-h3 {
+    background: #fff;
+    color: #000;
+    font-size: 14px;
+    /*line-height: 10px;*/
+    margin: 5px;
+    padding: 2%;
+    position: relative;
+  }
+  
+  .slick-arrow {
+    background-color: mediumslateblue !important;
+    color: #000 !important;
+  }
+  
