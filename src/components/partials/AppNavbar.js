@@ -50,7 +50,7 @@ class AppNavbar extends Component {
                 </NavItem>
                 <NavItem className="ml-3 mr-3 ">
                   <Link
-                    to="/about"
+                    to="/"
                     className="text-white custom-hover nav-link"
                   >
                     About
@@ -58,14 +58,14 @@ class AppNavbar extends Component {
                 </NavItem>
                 <NavItem className="ml-3 mr-3 ">
                   <Link
-                    to="/projects"
+                    to="/"
                     className="text-white custom-hover nav-link"
                   >
                     Projects
                   </Link>
                 </NavItem>
                 <NavItem className="ml-3 mr-3">
-                  <Link to="/blog" className="text-white custom-hover nav-link">
+                  <Link to="/" className="text-white custom-hover nav-link">
                     Blog
                   </Link>
                 </NavItem>
