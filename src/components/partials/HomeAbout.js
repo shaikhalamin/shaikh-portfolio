@@ -22,8 +22,8 @@ class HomeAbout extends Component {
               <p className="text-justify ml-3 font-15">
                 I am Shaikh Al Amin. Working as a Senior Software Engineer at <a href="https://www.wipro.com/" target="_blank" rel="noopener noreferrer">Wipro Limited</a> where i am providing ERP solution to E2E
                 customer.I did work on a B2C Ecommerce(travel
-                booking) project called <a href="https://www.volatour.com/en/" target="_blank" rel="noopener noreferrer">Volatour</a> at my previous company. I love stick to new programming
-                challenge. I am very much curious about new tech stack and like to
+                booking) project called <a href="https://www.volatour.com/en/" target="_blank" rel="noopener noreferrer">Volatour</a> at my previous company. Now I am working on a
+                personal project <a href="https://shaikh-eommerce-grocery.web.app/" target="_blank" rel="noopener noreferrer">(ecommerce grocery) </a> using #express #sequlize #passport and #react #redux #typescript. I am very much curious about new tech stack and like to
                 implement those new stack in real world problems.
               </p>
               <p className="text-justify ml-3 font-15">

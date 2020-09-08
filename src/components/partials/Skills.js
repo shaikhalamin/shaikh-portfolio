@@ -43,7 +43,7 @@ class Skills extends Component {
       <div className="container mb-5">
         <div className="row">
           <div className="col-md-12">
-            <h4 className="mb-3 mt-3 text-center">Skills Overview</h4>
+            <h4 className="mb-3 mt-3 text-center"><span className="border-bottom-3">Skills Overview</span></h4>
           </div>
         </div>
 
@@ -51,7 +51,7 @@ class Skills extends Component {
           <div>
             <div className="slide-h3 border">
               <h4 className="text-center">Frontend</h4>
-              <ul>
+              <ul className="font-15">
                 <li>Html Css Bootstrap Js JQuery</li>
                 <li>React Redux Typescript</li>
                 <li>Webpack Babel SSR</li>
@@ -62,7 +62,7 @@ class Skills extends Component {
           <div>
             <div className="slide-h3 border">
               <h4 className="text-center"> Backend</h4>
-              <ul>
+              <ul className="font-15">
                 <li>PHP Laravel CakePHP</li>
                 <li>Node Express Restify</li>
                 <li>Socket IO RabbitMQ</li>
@@ -73,7 +73,7 @@ class Skills extends Component {
           <div>
             <div className="slide-h3 border">
               <h4 className="text-center">Database</h4>
-              <ul>
+              <ul className="font-15">
                 <li>MySQL PostgresSQL</li>
                 <li>Mongodb,MongoDB Atlas</li>
                 <li>Redis</li>
@@ -84,7 +84,7 @@ class Skills extends Component {
           <div>
             <div className="slide-h3 border">
               <h4 className="text-center">Devops</h4>
-              <ul>
+              <ul className="font-15">
                 <li>Git Github</li>
                 <li>AWS,Digital Ocean,Heroku,Firebase</li>
                 <li>Apache,Nginx,Docker</li>
@@ -95,7 +95,7 @@ class Skills extends Component {
           <div>
             <div className="slide-h3 border">
               <h4 className="text-center">Programming</h4>
-              <ul>
+              <ul className="font-15">
                 <li>PHP</li>
                 <li>NODE</li>
                 <li>Python</li>
