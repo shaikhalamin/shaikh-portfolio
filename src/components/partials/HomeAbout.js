@@ -20,13 +20,20 @@ class HomeAbout extends Component {
                 <span className="border-bottom-3">About</span> Me
               </h4>
               <p className="text-justify ml-3 font-15">
-                I am Shaikh Al Amin. Working as a Senior Software Engineer at
-                Wipro Limited where i am providing ERP solution to E2E
-                customer.I have work experience with B2C Ecommerce of travel
-                booking system as well. I love stick to new programming
-                challenge. I am very much curious about new tech and like to
-                implement those new tech in real world problems.
+                I am Shaikh Al Amin. Working as a Senior Software Engineer at <a href="https://www.wipro.com/" target="_blank" rel="noopener noreferrer">Wipro Limited</a> where i am providing ERP solution to E2E
+                customer.I did work on a B2C Ecommerce(travel
+                booking) project called <a href="https://www.volatour.com/en/" target="_blank" rel="noopener noreferrer">Volatour</a> at my previous company. I love stick to new programming
+                challenge. I am very much curious about new tech stack and like to
+                implement those new stack in real world problems.
               </p>
+              <p className="text-justify ml-3 font-15">
+                I like to play Cricket, Table Tennis, Badminton and NFS.
+              </p>
+
+              <p className="text-justify ml-3 font-15">
+
+              </p>
+
               <div className="row">
                 <div className="col-md-12 mt-2">
                   <ul className="nav ml-3">
