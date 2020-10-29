@@ -25,6 +25,10 @@ body{
   .font-14 {
     font-size: 16px;
   }
+
+  .font-13{
+    font-size:13px;
+  }
   
   .custom-hover:hover {
     border-bottom: 2px solid #17a2b8;

@@ -21,11 +21,17 @@ class AppJumbotron extends Component {
                     <span className="i-am">I'm</span> Shaikh Al Amin
                   </b>
                 </h1>
-                <h6 className="text-white">
+                <p className="text-white">
                   Senior Software Engineer | Frontend Specialist
-                </h6>
+                </p>
+                <p className="">
+                  <i className="fa fa-envelope-o mr-1 round-icon" aria-hidden="false" style={{ fontSize: "18px", color: "#fff" }}></i>
+                  <span className="text-white" style={{ fontSize: "18px", color: "#fff" }}>
+                    alamin.cse15@gmail.com
+                  </span>
+                </p>
                 <div className="row">
-                  <div className="col-md-6 offset-md-3 mb-3 mt-2">
+                  <div className="col-md-6 offset-md-3 mb-3 mt-1">
                     <a
                       href={cv}
                       className="btn btn-sm btn-outline-info text-white"
@@ -86,7 +92,7 @@ class AppJumbotron extends Component {
             </div>
           </div>
         </div>
-      </div>
+      </div >
     );
   }
 }

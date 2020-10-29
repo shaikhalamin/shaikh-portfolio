@@ -52,26 +52,26 @@ const Experiences = () => {
 
                 <ul className="nav justify-content-center">
                   <li className="nav-item">
-                    <a className="btn btn-sm" href="/">
+                    <a className="btn btn-sm font-13" href="/">
                       <b>
                         CAKE <span className="text-danger">PHP</span>
                       </b>
                     </a>
                   </li>
                   <li className="nav-item">
-                    <a className="btn btn-sm" href="/">
+                    <a className="btn btn-sm font-13" href="/">
                       <b>
                         My<span className="text-warning">SQL</span>
                       </b>
                     </a>
                   </li>
                   <li className="nav-item">
-                    <a className="btn btn-sm text-info" href="/">
+                    <a className="btn btn-sm text-info font-13" href="/">
                       <b>REST</b>
                     </a>
                   </li>
                   <li className="nav-item">
-                    <a className="btn btn-sm" href="/">
+                    <a className="btn btn-sm font-13" href="/">
                       <span
                         className="bg-warning text-white"
                         style={{ padding: "3px", borderRadius: "5px" }}
@@ -81,7 +81,7 @@ const Experiences = () => {
                     </a>
                   </li>
                   <li className="nav-item">
-                    <a className="btn btn-sm " href="/">
+                    <a className="btn btn-sm font-13" href="/">
                       <span
                         className="bg-primary text-white"
                         style={{ padding: "3px", borderRadius: "5px" }}
@@ -91,7 +91,7 @@ const Experiences = () => {
                     </a>
                   </li>
                   <li className="nav-item">
-                    <a className="btn btn-sm" href="/">
+                    <a className="btn btn-sm font-13" href="/">
                       <span
                         className="text-white"
                         style={{
@@ -187,26 +187,26 @@ const Experiences = () => {
                 </ul>
                 <ul className="nav justify-content-center">
                   <li className="nav-item">
-                    <a className="btn btn-sm" href="/">
+                    <a className="btn btn-sm font-13" href="/">
                       <b>
                         <span className="text-danger">Laravel</span>
                       </b>
                     </a>
                   </li>
                   <li className="nav-item">
-                    <a className="btn btn-sm" href="/">
+                    <a className="btn btn-sm font-13" href="/">
                       <b>
                         My<span className="text-warning">SQL</span>
                       </b>
                     </a>
                   </li>
                   <li className="nav-item">
-                    <a className="btn btn-sm text-info" href="/">
+                    <a className="btn btn-sm text-info font-13" href="/">
                       <b>SOAP</b>
                     </a>
                   </li>
                   <li className="nav-item">
-                    <a className="btn btn-sm" href="/">
+                    <a className="btn btn-sm font-13" href="/">
                       <span
                         className="bg-warning text-white"
                         style={{ padding: "3px", borderRadius: "5px" }}
@@ -216,7 +216,7 @@ const Experiences = () => {
                     </a>
                   </li>
                   <li className="nav-item">
-                    <a className="btn btn-sm " href="/">
+                    <a className="btn btn-sm font-13" href="/">
                       <span
                         className="bg-primary text-white"
                         style={{ padding: "3px", borderRadius: "5px" }}
@@ -226,7 +226,7 @@ const Experiences = () => {
                     </a>
                   </li>
                   <li className="nav-item">
-                    <a className="btn btn-sm" href="/">
+                    <a className="btn btn-sm font-13" href="/">
                       <span
                         className="text-white"
                         style={{
