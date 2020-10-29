@@ -26,8 +26,13 @@ class AppJumbotron extends Component {
                 </p>
                 <p className="">
                   <i className="fa fa-envelope-o mr-1 round-icon" aria-hidden="false" style={{ fontSize: "18px", color: "#fff" }}></i>
-                  <span className="text-white" style={{ fontSize: "18px", color: "#fff" }}>
+                  <span className="text-white mr-1" style={{ fontSize: "18px", color: "#fff" }}>
                     alamin.cse15@gmail.com
+                  </span>
+                  <span className="text-white">|</span>
+                  <i className="fa fa-phone ml-1 mr-1 round-icon" aria-hidden="false" style={{ fontSize: "18px", color: "#fff" }}></i>
+                  <span className="text-white" style={{ fontSize: "18px", color: "#fff" }}>
+                    +8801712341937
                   </span>
                 </p>
                 <div className="row">
@@ -57,7 +62,7 @@ class AppJumbotron extends Component {
                       href="https://www.linkedin.com/in/shaikh-al-amin/"
                     >
                       <i
-                        className="fa fa-linkedin-square"
+                        className="fa fa-linkedin-square round-icon"
                         style={{ fontSize: "25px", color: "#fff" }}
                         aria-hidden="true"
                       />
@@ -69,7 +74,7 @@ class AppJumbotron extends Component {
                       href="https://github.com/shaikhalamin"
                     >
                       <i
-                        className="fa fa-github-square"
+                        className="fa fa-github-square round-icon"
                         style={{ fontSize: "25px", color: "#fff" }}
                         aria-hidden="true"
                       />
@@ -81,7 +86,7 @@ class AppJumbotron extends Component {
                       href="https://twitter.com/shaikhalamin015"
                     >
                       <i
-                        className="fa fa-twitter-square"
+                        className="fa fa-twitter-square round-icon"
                         style={{ fontSize: "25px", color: "#fff" }}
                         aria-hidden="true"
                       />
