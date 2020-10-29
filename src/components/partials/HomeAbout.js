@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import shaikh_image from "./images/shaikh_alamin.jpg";
-import cv from "../SHAIKH_AL_AMIN_CV.pdf";
+import cv from "../Resume_of_Shaikh_AL_Amin.pdf";
 
 class HomeAbout extends Component {
   render() {
@@ -45,7 +45,7 @@ class HomeAbout extends Component {
                         rel="noopener noreferrer"
                         download
                       >
-                        Download CV
+                        Download Resume
                       </a>
                     </li>
                     <li className="nav-item">

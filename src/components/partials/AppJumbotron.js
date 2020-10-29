@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import bG from "../bgParticle.gif";
-import cv from "../SHAIKH_AL_AMIN_CV.pdf";
+import cv from "../Resume_of_Shaikh_AL_Amin.pdf";
 
 class AppJumbotron extends Component {
   render() {
@@ -33,7 +33,7 @@ class AppJumbotron extends Component {
                       rel="noopener noreferrer"
                       download
                     >
-                      Download CV
+                      Download Resume
                     </a>
                     <button
                       type="button"
