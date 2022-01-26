@@ -20,11 +20,19 @@ class HomeAbout extends Component {
                 <span className="border-bottom-3">About</span> Me
               </h4>
               <p className="text-justify ml-3 font-15">
-                I am Shaikh Al Amin. Working as a Senior Software Engineer at <a href="https://www.wipro.com/" target="_blank" rel="noopener noreferrer">Wipro Limited</a> where i am providing ERP solution to E2E
-                customer. Designed and developed B2C Ecommerce(travel
-                booking) project called <a href="https://www.volatour.com/en/" target="_blank" rel="noopener noreferrer">Volatour</a> at my previous company. Now I am working on a
-                personal project <a href="https://shaikh-eommerce-grocery.web.app/" target="_blank" rel="noopener noreferrer">(ecommerce grocery) </a> using #express #sequlize #passport and #react #redux #typescript. I am very much curious about new tech stack and like to
-                implement those new stack in real world problems.
+                I am Shaikh Al Amin. Working as a Senior Software Engineer at <a href="https://www.venturas-bd.com/" target="_blank" rel="noopener noreferrer">Venturas Limited</a> where i am providing CRM solution to E2E
+                customer. <br/>
+                I am experienced and solution oriented professionals with a demonstrated history of 5+ years remarkable background in 
+                overseeing all aspects of software development life-cycle from concept through to development and delivery.
+               
+                <ul className="mt-2">
+                  <li>
+                  3.5 Years working experience in ERP-CRM at Venturas & Wipro Ltd
+                  </li>
+                  <li>
+                  2.5 Years work experience in Travel Booking Sector at Volatour(Teamnet).
+                  </li>
+                </ul>                
               </p>
               <p className="text-justify ml-3 font-15">
                 I like to play Cricket, Table Tennis, Badminton and NFS.

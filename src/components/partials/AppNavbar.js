@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 
 import {
   Collapse,
@@ -44,11 +44,11 @@ class AppNavbar extends Component {
             <Collapse isOpen={this.state.isOpen} navbar>
               <Nav className="ml-auto" navbar>
                 <NavItem className="ml-3 mr-3">
-                  <Link to="/" className="text-white custom-hover nav-link">
+                  {/* <Link to="/" className="text-white custom-hover nav-link">
                     Home
-                  </Link>
+                  </Link> */}
                 </NavItem>
-                <NavItem className="ml-3 mr-3 ">
+                {/* <NavItem className="ml-3 mr-3 ">
                   <Link
                     to="/"
                     className="text-white custom-hover nav-link"
@@ -63,12 +63,12 @@ class AppNavbar extends Component {
                   >
                     Projects
                   </Link>
-                </NavItem>
-                <NavItem className="ml-3 mr-3">
+                </NavItem> */}
+                {/* <NavItem className="ml-3 mr-3">
                   <Link to="/" className="text-white custom-hover nav-link">
                     Blog
                   </Link>
-                </NavItem>
+                </NavItem> */}
                 <NavItem className="ml-3 mr-3 ">
                   <ContactModal />
                 </NavItem>

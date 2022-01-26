@@ -1,7 +1,6 @@
 import React from "react";
 
 const Experiences = () => {
-
   return (
     <div className="row bg-light">
       <div className="container mb-5">
@@ -12,13 +11,143 @@ const Experiences = () => {
             </h4>
           </div>
         </div>
+
         <div className="row">
           <div className="col-md-6">
             <div className="card">
-              <div
-                className="card-header"
-                style={{ backgroundColor: "#fff" }}
-              >
+              <div className="card-header" style={{ backgroundColor: "#fff" }}>
+                <h6>
+                  <a href="https://www.venturas-bd.com/">
+                    <b>Venturas Limited</b>{" "}
+                    <span className="text-dark">Dhaka-Bangladesh</span>
+                  </a>
+                </h6>
+                <p className="font-15">
+                  <span>
+                    <b>Senior Software Engineer </b>
+                  </span>{" "}
+                  | FEBRUARY 2021 - PRESENT
+                </p>
+              </div>
+              <div className="card-body">
+                <ul className="font-14">
+                  <li className="mt-1 mb-1">
+                    Designing and developing Property & Land Management
+                    microservice with message queue.
+                  </li>
+                  <li className="mt-1 mb-1">
+                    Develop admin ui with Next JS(React)
+                  </li>
+                  <li className="mt-1 mb-1">
+                    Develop web crawler for bushiness needs.
+                  </li>
+                  <li className="mt-1 mb-1">
+                    Solve real-time problems occurring in production related to
+                    UI, Backend, and Databases.
+                  </li>
+                </ul>
+
+                <ul className="nav justify-content-center">
+                  <li className="nav-item">
+                    <a className="btn btn-sm font-13" href="/">
+                      <b>
+                        <span className="text-primary">NODE</span>  ,NEST JS , <span className="text-info">Typescript</span> 
+                      </b>
+                    </a>
+                  </li>
+                  <li className="nav-item">
+                    <a className="btn btn-sm font-13" href="/">
+                      <b>
+                        My<span className="text-warning">SQL</span>
+                      </b>
+                    </a>
+                  </li>
+                  <li className="nav-item">
+                    <a className="btn btn-sm text-info font-13" href="/">
+                      <b>REST</b>
+                    </a>
+                  </li>
+                  <li className="nav-item">
+                    <a className="btn btn-sm font-13" href="/">
+                      <span
+                        className="bg-warning text-white"
+                        style={{ padding: "3px", borderRadius: "5px" }}
+                      >
+                        <b>Javascript</b>
+                      </span>
+                    </a>
+                  </li>
+                  <li className="nav-item">
+                    <a className="btn btn-sm font-13" href="/">
+                      <span
+                        className="bg-primary text-white"
+                        style={{ padding: "3px", borderRadius: "5px" }}
+                      >
+                        <b>React,Next JS</b>
+                      </span>
+                    </a>
+                  </li>
+                  <li className="nav-item">
+                    <a className="btn btn-sm font-13" href="/">
+                      <span
+                        className="text-white"
+                        style={{
+                          backgroundColor: "#563d7c",
+                          padding: "3px",
+                          borderRadius: "5px",
+                        }}
+                      >
+                        <b>Bootstrap</b>
+                      </span>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div className="card-footer bg-light">
+                <ul className="nav justify-content-center">
+                  <li className="nav-item">
+                    <a
+                      className="btn btn-sm"
+                      href="https://www.linkedin.com/in/shaikh-al-amin/"
+                    >
+                      <i
+                        className="fa fa-linkedin-square"
+                        style={{ fontSize: "25px", color: "#000" }}
+                        aria-hidden="true"
+                      />
+                    </a>
+                  </li>
+                  <li className="nav-item">
+                    <a
+                      className="btn btn-sm"
+                      href="https://github.com/shaikhalamin"
+                    >
+                      <i
+                        className="fa fa-github-square"
+                        style={{ fontSize: "25px", color: "#000" }}
+                        aria-hidden="true"
+                      />
+                    </a>
+                  </li>
+                  <li className="nav-item">
+                    <a
+                      className="btn btn-sm"
+                      href="https://twitter.com/shaikhalamin015"
+                    >
+                      <i
+                        className="fa fa-twitter-square"
+                        style={{ fontSize: "25px", color: "#000" }}
+                        aria-hidden="true"
+                      />
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div className="col-md-6">
+            <div className="card">
+              <div className="card-header" style={{ backgroundColor: "#fff" }}>
                 <h6>
                   <a href="https://www.wipro.com/">
                     <b>Wipro Limited</b>{" "}
@@ -29,7 +158,7 @@ const Experiences = () => {
                   <span>
                     <b>Senior Software Engineer </b>
                   </span>{" "}
-                  | SEPTEMBER 2019 - PRESENT
+                  | SEPTEMBER 2019 - JANUARY 2021
                 </p>
               </div>
               <div className="card-body">
@@ -45,7 +174,7 @@ const Experiences = () => {
                     Develop admin UI for system support.
                   </li>
                   <li className="mt-1 mb-1">
-                    Solve real-time problems occuring in production related to
+                    Solve real-time problems occurring in production related to
                     UI, Backend, and Databases.
                   </li>
                 </ul>
@@ -97,7 +226,7 @@ const Experiences = () => {
                         style={{
                           backgroundColor: "#563d7c",
                           padding: "3px",
-                          borderRadius: "5px"
+                          borderRadius: "5px",
                         }}
                       >
                         <b>Bootstrap</b>
@@ -149,12 +278,9 @@ const Experiences = () => {
             </div>
           </div>
 
-          <div className="col-md-6">
+          <div className="col-md-6 mt-4">
             <div className="card">
-              <div
-                className="card-header"
-                style={{ backgroundColor: "#fff" }}
-              >
+              <div className="card-header" style={{ backgroundColor: "#fff" }}>
                 <h6>
                   <a href="https://teamamericany.com/index.php/home/start">
                     <b>Teamnet(USA BASED)</b>{" "}
@@ -165,7 +291,7 @@ const Experiences = () => {
                   <span>
                     <b>Software Engineer</b>
                   </span>{" "}
-                  | NOVEMBER 2016 - AUGUST 2019
+                  | APRIL 2016 - AUGUST 2019
                 </p>
               </div>
               <div className="card-body">
@@ -232,7 +358,7 @@ const Experiences = () => {
                         style={{
                           backgroundColor: "#563d7c",
                           padding: "3px",
-                          borderRadius: "5px"
+                          borderRadius: "5px",
                         }}
                       >
                         <b>Bootstrap</b>
@@ -287,8 +413,6 @@ const Experiences = () => {
       </div>
     </div>
   );
-
-}
-
+};
 
 export default Experiences;

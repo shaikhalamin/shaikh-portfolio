@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import bG from "../bgParticle.gif";
 import cv from "../Resume_of_Shaikh_AL_Amin.pdf";
 
+
 class AppJumbotron extends Component {
   render() {
     return (
