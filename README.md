@@ -5,9 +5,15 @@
 #The following list has been cover here
 
 ```javascript
-   CV Download Option
-   Contact Details Area
-   Social Link
-   Work Expericece Area
-   Technical Skill Area
+   how to deploy with firebase hosting:
+
+   firebase init hosting
+
+   select the project name: 
+
+   select a directory which name should be build
+
+   then run npm run build
+
+   then run firebase deploy
 ```
