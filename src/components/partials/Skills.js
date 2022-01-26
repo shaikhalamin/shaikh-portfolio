@@ -19,31 +19,33 @@ class Skills extends Component {
             slidesToShow: 3,
             slidesToScroll: 3,
             infinite: true,
-            dots: true
-          }
+            dots: true,
+          },
         },
         {
           breakpoint: 600,
           settings: {
             slidesToShow: 2,
             slidesToScroll: 2,
-            initialSlide: 2
-          }
+            initialSlide: 2,
+          },
         },
         {
           breakpoint: 480,
           settings: {
             slidesToShow: 2,
-            slidesToScroll: 2
-          }
-        }
-      ]
+            slidesToScroll: 2,
+          },
+        },
+      ],
     };
     return (
       <div className="container mb-5">
         <div className="row">
           <div className="col-md-12">
-            <h4 className="mb-3 mt-3 text-center"><span className="border-bottom-3">Skills Overview</span></h4>
+            <h4 className="mb-3 mt-3 text-center">
+              <span className="border-bottom-3">Skills Overview</span>
+            </h4>
           </div>
         </div>
 
@@ -52,8 +54,9 @@ class Skills extends Component {
             <div className="slide-h3 border">
               <h4 className="text-center">Frontend</h4>
               <ul className="font-15">
-                <li>Html Css Bootstrap Js JQuery</li>
-                <li>React,Next Typescript</li>
+                <li>Html CSS Bootstrap JS JQuery</li>
+                <li>React Next Vue Typescript</li>
+                <li>Redux ReactQuery SWR</li>
                 <li>Webpack Babel</li>
               </ul>
             </div>
@@ -63,9 +66,10 @@ class Skills extends Component {
             <div className="slide-h3 border">
               <h4 className="text-center"> Backend</h4>
               <ul className="font-15">
-                <li>OOP PHP Laravel Symphony CakePHP</li>
+                <li>OOP PHP Laravel Symphony</li>
                 <li>Node Express Nest </li>
-                <li>Socket IO RabbitMQ</li>
+                <li>Socket-IO RabbitMQ</li>
+                <li>JEST MOCHA PHP-UNIT</li>
               </ul>
             </div>
           </div>
@@ -75,8 +79,9 @@ class Skills extends Component {
               <h4 className="text-center">Database/Devops</h4>
               <ul className="font-15">
                 <li>MySQL PostgresSQL</li>
-                <li>Mongodb,Redis</li>
-                <li>Git,Nginx,Docker</li>
+                <li>Mongodb Redis</li>
+                <li>Git Nginx Docker</li>
+                <li>AWS VPC EB RDS S3 DOCKER</li>
               </ul>
             </div>
           </div>

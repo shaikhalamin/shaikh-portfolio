@@ -20,27 +20,46 @@ class HomeAbout extends Component {
                 <span className="border-bottom-3">About</span> Me
               </h4>
               <p className="text-justify ml-3 font-15">
-                I am Shaikh Al Amin. Working as a Senior Software Engineer at <a href="https://www.venturas-bd.com/" target="_blank" rel="noopener noreferrer">Venturas Limited</a> where i am providing CRM solution to E2E
-                customer. <br/>
-                I am experienced and solution oriented professionals with a demonstrated history of 5+ years remarkable background in 
-                overseeing all aspects of software development life-cycle from concept through to development and delivery.
-               
+                I am Shaikh Al Amin. Working as a Senior Software Engineer at{" "}
+                <a
+                  href="https://www.venturas-bd.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Venturas Limited
+                </a>{" "}
+                where i am providing CRM solution to E2E customer. <br />I am
+                experienced and solution oriented professionals with a
+                demonstrated history of 5+ years remarkable background in
+                overseeing all aspects of software development life-cycle from
+                concept through to development and delivery.
                 <ul className="mt-2">
                   <li>
-                  3.5 Years working experience in ERP-CRM at Venturas & Wipro Ltd
+                    3.5 Years working experience in ERP-CRM at{" "}
+                    <a
+                      href="https://www.venturas-bd.com/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      Venturas Limited
+                    </a>{" "}
+                    & <a href="https://www.wipro.com/">Wipro Limited</a>
                   </li>
                   <li>
-                  2.5 Years work experience in Travel Booking Sector at Volatour(Teamnet).
+                    2.5 Years work experience in Travel Booking Sector at
+                    <span className="ml-2">
+                      <a href="https://teamamericany.com/index.php/home/start">
+                        Volatour(Teamnet)
+                      </a>{" "}
+                    </span>
                   </li>
-                </ul>                
+                </ul>
               </p>
               <p className="text-justify ml-3 font-15">
                 I like to play Cricket, Table Tennis, Badminton and NFS.
               </p>
 
-              <p className="text-justify ml-3 font-15">
-
-              </p>
+              <p className="text-justify ml-3 font-15"></p>
 
               <div className="row">
                 <div className="col-md-12 mt-2">
