@@ -43,13 +43,13 @@ class HomeAbout extends Component {
                     >
                       Venturas Limited
                     </a>{" "}
-                    & <a href="https://www.wipro.com/">Wipro Limited</a>
+                    & <a href="https://www.wipro.com/">Wipro Limited .</a>
                   </li>
                   <li>
                     2.5 Years work experience in Travel Booking Sector at
                     <span className="ml-2">
                       <a href="https://teamamericany.com/index.php/home/start">
-                        Volatour(Teamnet)
+                        Volatour(Teamnet) .
                       </a>{" "}
                     </span>
                   </li>
