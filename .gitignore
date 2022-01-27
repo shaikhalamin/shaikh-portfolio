@@ -9,10 +9,10 @@
 /coverage
 
 # production
-/build
+
 
 # production
-/build
+
 
 #firebase
 /.firebase
