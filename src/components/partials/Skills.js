@@ -66,7 +66,7 @@ class Skills extends Component {
             <div className="slide-h3 border">
               <h4 className="text-center"> Backend</h4>
               <ul className="font-15">
-                <li>OOP PHP Laravel Symphony</li>
+                <li>OOP PHP Laravel</li>
                 <li>Node Express Nest </li>
                 <li>Socket-IO RabbitMQ</li>
                 <li>JEST MOCHA PHP-UNIT</li>

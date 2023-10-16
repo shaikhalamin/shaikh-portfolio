@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import bG from "../bgParticle.gif";
-import cv from "../Resume_of_Shaikh_AL_Amin.pdf";
+import cv from "../SENIOR_SOFTWARE_ENGINEER_NODEJS_7YRS_SHAIKH_AL_AMIN_CV.pdf";
 
 
 class AppJumbotron extends Component {
@@ -24,6 +24,9 @@ class AppJumbotron extends Component {
                 </h1>
                 <p className="text-white">
                   Senior Software Engineer | Frontend Specialist
+                </p>
+                <p className="text-white">
+                  Node.js | Express | Typescript | React.js | AWS | Docker | MySQL | MongoDB | Redis | PHP | Laravel 
                 </p>
                 <p className="">
                   <i className="fa fa-envelope-o mr-1 round-icon" aria-hidden="false" style={{ fontSize: "18px", color: "#fff" }}></i>

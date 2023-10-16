@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import shaikh_image from "./images/shaikh_alamin.jpg";
-import cv from "../Resume_of_Shaikh_AL_Amin.pdf";
+import cv from "../SENIOR_SOFTWARE_ENGINEER_NODEJS_7YRS_SHAIKH_AL_AMIN_CV.pdf";
 
 class HomeAbout extends Component {
   render() {
@@ -20,22 +20,22 @@ class HomeAbout extends Component {
                 <span className="border-bottom-3">About</span> Me
               </h4>
               <p className="text-justify ml-3 font-15">
-                I am Shaikh Al Amin. Working as a Senior Software Engineer at{" "}
-                <a
-                  href="https://www.venturas-bd.com/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Venturas Limited
-                </a>{" "}
-                where i am providing CRM solution to E2E customer. <br />I am
-                experienced and solution oriented professionals with a
-                demonstrated history of 5+ years remarkable background in
-                overseeing all aspects of software development life-cycle from
-                concept through to development and delivery.
+                I am Shaikh Al Amin. Experienced and solution-oriented
+                professionals with a demonstrated history of 7+ years of
+                impressive background in overseeing all aspects of software
+                development life-cycle from concept through to development and
+                delivery.
                 <ul className="mt-2">
                   <li>
-                    3.5 Years working experience in ERP-CRM at{" "}
+                    1 year of working experience with a Wedding Planning App
+                    along with a Photo app and E-commerce apps at
+                    <span className="ml-2">
+                      <a href="https://tikweb.com/">(Tikweb) .</a>{" "}
+                    </span>
+                  </li>
+                  <li>
+                    4.5 Years working experience in ERP-CRM & Property
+                    Management at{" "}
                     <a
                       href="https://www.venturas-bd.com/"
                       target="_blank"
@@ -76,12 +76,6 @@ class HomeAbout extends Component {
                       </a>
                     </li>
                     <li className="nav-item">
-                      <button
-                        type="button"
-                        className="btn btn-sm btn-outline-warning text-dark ml-2"
-                      >
-                        Hire Me
-                      </button>
                     </li>
                   </ul>
                 </div>
